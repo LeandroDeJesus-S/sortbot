@@ -2,8 +2,13 @@
 
 ## Bot para sorteios no instagram
 
+### PRÉ REQUISITOS
+- [Python](https://www.python.org/downloads/)
+
 ### COMO FUNCIONA
-O bot 
+O bot vai na postagem do sorteio, curti o post (se especificado), segue as pessoas com os
+usuários passados no arquivo "to_follow.txt", e faz uma determinada % de comentários. É realizado
+1 comentário de 2 a 4 minutos mencionando um numero determinado de amigos.
 
 ### COMO USAR
 
